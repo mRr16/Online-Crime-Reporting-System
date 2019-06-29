@@ -7,15 +7,8 @@ Person can give any complaint at any time.
 
 ## Objectives
 
-1) Tracking all complaints details
-
-ii) Tracking all criminal details
-
-iii) Tracking FIR (first information records)
-
-iv) Tracking  postmortem  records
-
-v) Generating  varies information reports etc.
+The main objective of this Online Crime Reporting System is to easy track of the
+criminal information and easy fetching of information stored on the server databases.
 
 ## Use Technology
 
