@@ -7,19 +7,23 @@ Person can give any complaint at any time.
 
 ## Objectives
 
-1)Tracking all complaints details
-ii)Tracking all criminal details
-iii)Tracking FIR (first information records)
-iv)Tracking  postmortem  records
-v)Generating  varies information reports etc.
+1) Tracking all complaints details
+
+ii) Tracking all criminal details
+
+iii) Tracking FIR (first information records)
+
+iv) Tracking  postmortem  records
+
+v) Generating  varies information reports etc.
 
 ## Use Technology
-i)Server Side:
+i) Server Side:
     Language: PHP
     Database: My SQL
-ii)Client Side
-    Language: HTML & CSS
-iii)Tools: Apache Server
+ii) Client Side
+     Language: HTML & CSS
+iii) Tools: Apache Server
 
 
 
